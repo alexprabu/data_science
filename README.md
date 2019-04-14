@@ -1,1 +1,1 @@
-# data_science_class
+# data_science_course
