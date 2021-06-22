@@ -1,0 +1,9 @@
+This is IOB bank page
+
+
+Indian Overseas Bank
+
+
+Head office at Chennai
+Public sector bank
+branch1 = {'Name':'Mount Road','IFSC':'IOB000001','Manager':'Mr. Siva Kumar'}
